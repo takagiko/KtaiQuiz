@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>KtaiQuiz設定ファイル</comment>
+
+	<entry key="q1.question">愛知県の県庁所在地はどこか</entry>
+	<entry key="q1.choice1">愛知</entry>
+	<entry key="q1.choice2">名古屋</entry>
+	<entry key="q1.choice3">岐阜</entry>
+	<entry key="q1.choice4">津</entry>
+	<entry key="q1.choice5">豊橋</entry>
+	<entry key="q1.answer">2</entry>
+	<entry key="q1.score">10</entry>
+
+	<entry key="q2.question">名古屋市立大学に存在する学部を２つ選べ</entry>
+	<entry key="q2.choice1">工学部</entry>
+	<entry key="q2.choice2">医学部</entry>
+	<entry key="q2.choice3">法学部</entry>
+	<entry key="q2.choice4">文学部</entry>
+	<entry key="q2.choice5">経済学部</entry>
+	<entry key="q2.choice6">教養学部</entry>
+	<entry key="q2.choice7">未来環境情報知識創発学部</entry>
+	<entry key="q2.answer">2,5</entry>
+	<entry key="q2.score">5</entry>
+
+	<entry key="q3.question">名古屋市営地下鉄の初乗り運賃は</entry>
+	<entry key="q3.choice1">140円</entry>
+	<entry key="q3.choice2">160円</entry>
+	<entry key="q3.choice3">180円</entry>
+	<entry key="q3.choice4">200円</entry>
+	<entry key="q3.choice5">220円</entry>
+	<entry key="q3.answer">4</entry>
+	<entry key="q3.score">10</entry>
+
+	<entry key="q4.question">名古屋で言う 4M に該当&lt;b&gt;&lt;u&gt;しない&lt;/u&gt;&lt;/b&gt;ものはどれか</entry>
+	<entry key="q4.choice1">三越</entry>
+	<entry key="q4.choice2">松坂屋</entry>
+	<entry key="q4.choice3">丸井</entry>
+	<entry key="q4.choice4">丸栄</entry>
+	<entry key="q4.choice5">名鉄百貨店</entry>
+	<entry key="q4.answer">3</entry>
+	<entry key="q4.score">10</entry>
+
+	<entry key="q5.question">名古屋市に存在する区の名称を５つ選べ</entry>
+	<entry key="q5.choice1">中央区</entry>
+	<entry key="q5.choice2">東区</entry>
+	<entry key="q5.choice3">名東区</entry>
+	<entry key="q5.choice4">庄内区</entry>
+	<entry key="q5.choice5">千種区</entry>
+	<entry key="q5.choice6">伏見区</entry>
+	<entry key="q5.choice7">明治区</entry>
+	<entry key="q5.choice8">大正区</entry>
+	<entry key="q5.choice9">昭和区</entry>
+	<entry key="q5.choice10">緑区</entry>
+	<entry key="q5.answer">2,3,5,9,10</entry>
+	<entry key="q5.score">2</entry>
+
+</properties>

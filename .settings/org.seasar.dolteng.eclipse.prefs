@@ -1,0 +1,9 @@
+#Fri Dec 10 22:55:02 JST 2010
+DaoType=S2JDBC
+DefaultResourcePath=/ktaiquiz/src/main/resources
+DefaultRootPackage=ktaiquiz
+DefaultSrcPath=/ktaiquiz/src/main/java
+ServletPath=ktaiquiz
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp
+eclipse.preferences.version=1
